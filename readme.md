@@ -75,11 +75,11 @@ NyaLM/
 - Tool calling (appels de fonctions JS).
 
 ## 📝 TODO / idées à venir
-- [x] Générateur de doc : commande pour fabriquer automatiquement un README ou une fiche de features.
-- [x] Export Markdown/texte des conversations (en plus du JSON).
-- [x] Commande `/load` pour reprendre une sauvegarde.
-- [x] Thèmes console (couleurs, prompts custom).
-- [x] Mode auto-save (sauvegarde périodique ou à chaque réponse).
+- [] Générateur de doc : commande pour fabriquer automatiquement un README ou une fiche de features.
+- [] Export Markdown/texte des conversations (en plus du JSON).
+- [] Commande `/load` pour reprendre une sauvegarde.
+- [] Thèmes console (couleurs, prompts custom).
+- [] Mode auto-save (sauvegarde périodique ou à chaque réponse).
 
 ## 🩺 Dépannage rapide
 - `model not found` → vérifie que `model` correspond au nom exact dans LM Studio.  
